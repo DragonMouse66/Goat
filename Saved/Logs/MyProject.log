@@ -615,3 +615,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-00.58.46:750][443]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/jonah/OneDrive/Documents/GitHub/Goat'
 [2020.04.26-00.58.49:434][443]LogSlate: Window 'Save Level As' being destroyed
 [2020.04.26-00.58.49:509][451]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/jonah/OneDrive/Documents/GitHub/Goat'
+[2020.04.26-01.02.48:052][294]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-01.02.49:088][294]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.26-01.02.49:135][294]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-01.02.57:928][266]Cmd: DELETE
+[2020.04.26-01.02.57:928][266]Cmd: ACTOR DELETE
+[2020.04.26-01.02.58:254][266]LogEditorActor: Deleted Actor: Empty_C
+[2020.04.26-01.02.58:283][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.04.26-01.02.58:284][266]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.04.26-01.03.01:922][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Empty" FILE="../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Content/Empty.uasset" SILENT=true
+[2020.04.26-01.03.01:964][676]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Saved/Empty35F0E85346513D69B1A64F807047A216.tmp' to '../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Content/Empty.uasset'
+[2020.04.26-01.03.02:291][676]AssetCheck: New page: Asset Save: Empty
+[2020.04.26-01.03.02:291][676]LogContentValidation: Display: Validating Blueprint /Game/Empty.Empty
+[2020.04.26-01.03.13:395][953]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.26-01.03.13:706][953]LogSourceControl: commit successful: [master 69af73b] Added Empty
+[2020.04.26-01.03.13:763][953]SourceControl: [master 69af73b] Added Empty
+[2020.04.26-01.03.13:763][953]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.04.26-01.03.13:763][953]SourceControl:  create mode 100644 Content/Empty.uasset
+[2020.04.26-01.03.13:769][953]SourceControl: Commited [master 69af73b] Added Empty.
+[2020.04.26-01.03.15:210][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.03.23:642][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.26-01.03.24:019][105]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.03.29:588][738]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.03.54:955][692]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'C:/Users/jonah/OneDrive/Documents/GitHub/Goat'
+[2020.04.26-01.03.55:067][692]EditorErrors: Warning: No assets to check in!
+[2020.04.26-01.04.10:104][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.04.15:503][833]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-01.05.18:098][616]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-01.05.20:052][796]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.05.52:595][651]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-01.05.55:170][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.07.52:612][176]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.07.55:427][487]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.26-01.07.56:172][574]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.26-01.08.21:505][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.26-01.08.21:506][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.26-01.08.21:550][547]LogSavePackage: Moving '../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Saved/Untitled_1_Auto110D3C8E0405675068ED5E8836293AB10.tmp' to '../../../../../../Users/jonah/OneDrive/Documents/GitHub/Goat/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.04.26-01.08.21:571][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.095
+[2020.04.26-01.08.21:571][547]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2020.04.26-01.19.22:258][727]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-01.19.41:594][961]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.26-01.19.45:293][314]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'C:/Users/jonah/OneDrive/Documents/GitHub/Goat'
+[2020.04.26-01.19.45:410][314]EditorErrors: Warning: No assets to check in!
